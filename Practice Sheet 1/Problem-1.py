@@ -10,7 +10,7 @@ elif (x < y and y % 2 != 0):
     n = y
 elif (x % 2 != 0):
     n = x
-if (n < z and z % 2 != 0 and n != 0):
+if (n < z and z % 2 != 0):
     n = z
 if (n == 0):
     print("There is no odd number amongst the provided numbers.")
