@@ -19,6 +19,5 @@ print("Part C: 4(pi)r^2 = ", 4*(p)*(r**2))
 
 print("Part D: Multi inputs and math library is not taught yet.")
 
-x1, x2, y1, y2 = eval(input("Enter a value of x1 for part E: ")), eval(input("Enter a value of x2 for part E: ")), eval(
-    input("Enter a value of y1 for part E: ")), eval(input("Enter a value of y2 for part E: "))
+x1, x2, y1, y2 = eval(input("Enter a value of x1 for part E: ")), eval(input("Enter a value of x2 for part E: ")), eval(input("Enter a value of y1 for part E: ")), eval(input("Enter a value of y2 for part E: "))
 print("Part E: (y2-y1)/(x2-x1) = ", (y2-y1)/(x2-x1))
