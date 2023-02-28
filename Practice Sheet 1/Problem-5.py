@@ -11,5 +11,4 @@ b = eval(input("Enter length of second side (b) : "))
 c = eval(input("Enter length of third side (c): "))
 s = (a+b+c)/2
 A = (s*(s-a)*(s-b)*(s-c))**(1/2)
-print("Calculating area using Heron's formula, \nSemi-perimeter of the triangle is: \ns = (a+b+c)/2 =", s, "units",
-      "\nThus, area A of the triangle with given sides is: \nA = sqrt(s(s-a)(s-b)(s-c)) =", A, "units", sep=" ")
+print("Calculating area using Heron's formula, \nSemi-perimeter of the triangle is: \ns = (a+b+c)/2 =", s, "units", "\nThus, area A of the triangle with given sides is: \nA = sqrt(s(s-a)(s-b)(s-c)) =", A, "units", sep=" ")
