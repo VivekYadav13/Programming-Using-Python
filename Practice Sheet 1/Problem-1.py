@@ -1,5 +1,7 @@
-'''Problem 1 (Solution 1)
-Write a program that examines three variables - x, y, and z - and prints the largest odd number among them. If none of them are odd, it should print a message to that effect.'''
+'''
+Problem 1:
+Write a program that examines three variables - x, y, and z - and prints the largest odd number among them. If none of them are odd, it should print a message to that effect.
+'''
 
 x, y, z = int(input("Enter first number: ")), int(
     input("Enter second number: ")), int(input("Enter third number: "))
