@@ -1,6 +1,5 @@
 """
-Write a program that asks the user to enter a word and prints out whether that word contains
-any vowels.
+Write a program that asks the user to enter a word and prints out whether that word contains any vowels.
 """
 string = input("Enter a string: ")
 for ch in string:
