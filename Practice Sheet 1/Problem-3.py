@@ -1,5 +1,4 @@
 '''
-Problem 3:
 Translate each of the following mathematical expressions into an equivalent Python expression. You may assume that the math library has been imported (via import math).
 A) (3+4)(5)
 B) (n(n-1))/2
