@@ -1,6 +1,7 @@
-"""
+'''
 Write a function called binom that takes two integers n and k and returns the binomial coefficient.
-"""
+'''
+
 from math import factorial
 
 
