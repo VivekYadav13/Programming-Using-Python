@@ -1,7 +1,7 @@
-"""
-Write a function to calculate the area of a pizza and its cost per square metre, given its radius.
-Given n sections of pizza, find the cost of each section.
-"""
+'''
+Write a function to calculate the area of a pizza and its cost per square metre, given its radius. Given n sections of pizza, find the cost of each section.
+'''
+
 import math
 
 
