@@ -1,5 +1,4 @@
 '''
-Problem 5:
 Write a program to calculate the area of a triangle given the length of its three sides - a, b, and c - using these formulas:
 s = (a+b+c)/2
 A = sqrt(s(s-a)(s-b)(s-c))
