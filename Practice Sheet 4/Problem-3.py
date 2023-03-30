@@ -1,7 +1,7 @@
-"""
-Write a function called sum_digits that is given an integer num and returns the sum of the
-digits of num.
-"""
+'''
+Write a function called sum_digits that is given an integer num and returns the sum of the digits of num.
+'''
+
 def sum_digit(n):
     s = 0
     while (n > 0):
