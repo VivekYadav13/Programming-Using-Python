@@ -4,7 +4,7 @@ Write a program that asks the user to enter a value n, and then computes (1 + 1/
 
 import math
 
-n = int(input("Enter a number n: "))
+n = int(input("Enter a positive integer n: "))
 a = 0
 for b in range(1,n+1):
     a += (1/b)
