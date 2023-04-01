@@ -6,7 +6,7 @@ A = sqrt(s(s-a)(s-b)(s-c))
 
 print("Calculating area of a triangle with given lengths of sides.")
 a = eval(input("Enter length of first side (a): "))
-b = eval(input("Enter length of second side (b) : "))
+b = eval(input("Enter length of second side (b): "))
 c = eval(input("Enter length of third side (c): "))
 s = (a+b+c)/2
 A = (s*(s-a)*(s-b)*(s-c))**(1/2)
