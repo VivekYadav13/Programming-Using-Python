@@ -2,4 +2,4 @@
 
 Some simple python problems and their solutions I am coding as a part of my degree course.
 
-Suggestions or welcome. Just open an issue.
+Suggestions or problems are welcome. Just open an issue.
