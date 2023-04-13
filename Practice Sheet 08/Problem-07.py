@@ -16,7 +16,7 @@ def simultaneous_solver(a1, b1, c1, d1, a2, b2, c2, d2, a3, b3, c3, d3):
         if D1 != 0 or D2 != 0 or D3 != 0:
             return "The given system is not consistent and cannot be solved."
         elif D1 == 0 or D2 == 0 or D3 == 0:
-            return f"x = {d1/a1} - ({b1/a1})*t - ({c1/a1})*t, y = {d2/a2} - ({b2/a2})*t - ({c2/a2})*t, z = t"
+            return f"x = {d1/a1} - ({b1/a1})*t - ({c1/a1})*t, y = {d2/a2} - ({b2/a2})*t - ({c2/a2})*t, z = t \nHere t is an arbitary constant."
 
 
 print("For simultaneous equations a1x + b1y + c1z = d1, a2x + b2y + c2z = d2 and a3x + b3y + c3z = d3, ")
