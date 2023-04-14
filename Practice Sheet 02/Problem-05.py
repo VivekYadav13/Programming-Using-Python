@@ -1,5 +1,5 @@
 '''
-
+Pascal's triangle is an arrangement of numbers in rows and columns such that each number in a row is the sum of the two numbers above it.
 '''
 
 n = int(input("Enter number of rows for Pascal's triangle: "))
