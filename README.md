@@ -4,7 +4,7 @@ This is a repository that I have created to store basic Python codes that I have
 
 ## Getting Started
 
-To use the codes in this repository, you need to have Python installed on your computer. You can download the latest version of Python from the official website of Python. Although optional, but you can also install an IDE or a code editor. You may code from the web.
+To use the codes in this repository, you need to have Python installed on your computer. You can download the latest version of Python from the official website of Python. Although optional, but you can also install an IDE or a code editor. You may code from the web too.
 
 ## Contents
 
