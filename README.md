@@ -15,7 +15,7 @@ This repository contains various Python codes that cover the following topics:
 - Loops
 - Conditional statements
 - Functions
-- Data structures (lists, tuples, dictionaries, sets)
+- Data structures (lists, tuples, dictionaries)
 
 Each practice sheet covers a new topic and some topics from the past. The codes are well-documented and easy to understand with question given along each code.
 
